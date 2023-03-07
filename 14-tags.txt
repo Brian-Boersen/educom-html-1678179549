@@ -1,0 +1,12 @@
+block:
+ <html> <head> <body> 
+<section>, <article> <blockquote> <canvas> <div>
+<header> <footer>  <form>  <h1>/<h6>
+<hr> <nav>  <ol>, <ul>, <li>  <p>
+<pre> <section> <table> <thead> <tfoot>
+
+inline:
+
+<a> <br> <button> <code>/<pre>
+<img> <picture> <input>, <textarea>, <select>  <q>
+<script> <small>, <big> <span>, <i>, <b>, <strong>  <sub>, <sup>
