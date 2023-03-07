@@ -11,4 +11,4 @@ In deze module zie je een set aan [issues](../../issues) en dit is een overzicht
 ## Resources
 Voor meer informatie kun je een kijkje nemen op [W3Schools](https://www.w3schools.com/html/), die hebben over het algemeen wel goede "beginner tutorials". 
 
-Trainings Module: https://e-learning.educom.nu/essentials/HTML/
+Trainings Module: https://e-learning.educom.nu/essentials/HTML/ test
